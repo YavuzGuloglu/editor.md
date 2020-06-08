@@ -319,4 +319,6 @@ Andrew->>China: I am good thanks!
 ###End
 
 
-#references :https://pandao.github.io/editor.md/en.html
+#references :
+https://pandao.github.io/editor.md/
+https://pandao.github.io/editor.md/en.html
