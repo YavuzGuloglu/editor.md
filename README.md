@@ -1,4 +1,4 @@
-#  Editor Kullanımı
+#  Editor Use
 
 ### Features
 
